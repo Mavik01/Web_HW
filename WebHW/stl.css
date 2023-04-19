@@ -1,0 +1,16 @@
+body {
+    background-color: cadetblue;
+    font-family: 'Caveat', cursive;
+}
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: rgb(110, 21, 21);
+}
+a:hover {
+    color: goldenrod;
+}
+img {
+    width: 40vh;
+}
